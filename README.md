@@ -25,7 +25,7 @@ $ source venv/bin/activate    # Enter the virtual environment.
 kakakopay-x.x.x-py3-none-any.whl
 ```
 
-### test source code
+### Test source code
 First, clone this project.  
 Then go to the project folder and create a user environment and  
 run build script.
