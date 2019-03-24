@@ -78,7 +78,7 @@ pytest-ordering - test
 
 > URL : http://127.0.0.1:8000/signin
 >
-> Method : PUT
+> Method : PUT  
 > Params : {"id": "kakao", "pw": "1234"}  
 > Response : {"token": "ey............"}
 
@@ -86,7 +86,7 @@ pytest-ordering - test
 
 > URL : http://127.0.0.1:8000/refreshtoken
 >
-> Method : PUT
+> Method : PUT  
 > Header : {"Authorization": "bearer" "old_token"}  
 > Response : {"token": "ey............"}
 
