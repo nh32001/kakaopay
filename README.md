@@ -95,6 +95,7 @@ pytest-ordering - test
 > URL : http://127.0.0.1:8000/api1
 >
 > Method : POST  
+> Header : {"Authorization": "basic" "token"}  
 > Response : {"msg":  "init db}
 
 #### 주택 금융 공급 금융기관(은행) 목록을 출력하는 API 를 개발하세요.
