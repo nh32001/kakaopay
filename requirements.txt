@@ -1,0 +1,7 @@
+sqlalchemy
+sanic
+sanic-restful
+pyjwt
+pytest
+pytest-sanic
+pytest-ordering
