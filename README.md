@@ -49,6 +49,10 @@ sqlalchemy - orm
 sanic - async server  
 sanic -restful - restful api  
 pyjwt - jwt  
+pytest - test  
+pytest-sanic - test  
+pytest-ordering - test  
+
 
 ## API Specifications
 
