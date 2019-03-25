@@ -36,7 +36,7 @@ $ source venv/bin/activate    # Enter the virtual environment.
 (venv)$ ./test.sh            # run pytest script
 ```
 
-#### Run backend server
+### Run backend server
 ``` bash
 (venv)$ pip install dist/kakakopay-x.x.x-py3-none-any.whl
 (venv)$ kakaopay start
